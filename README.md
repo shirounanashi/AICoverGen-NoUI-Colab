@@ -8,4 +8,4 @@ AICoverGen Without Using Gradio/UI From [AICoverGen](https://github.com/Socially
 </a>
 
 ### Google Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ardha27/AICoverGen-NoUI-Colab/blob/main/CoverGen_No_UI.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shirounanashi/AICoverGen-NoUI-Colab/blob/main/CoverGen_No_UI.ipynb)
